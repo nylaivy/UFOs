@@ -1,6 +1,6 @@
 # UFO Analysis
 
-##Overview of Project
+## Overview of Project
 In this analysis Javascript, HTML, and bootstrapping skills were used to create a table to organize UFO data stored as a JavaScript array, filter it based on certain criteria, and convert this data into a functional webpage. The html webpage includes an article, table of data to support findings, and filters to easily sift through the data.
 
 ## Results
