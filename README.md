@@ -15,4 +15,4 @@ They can then scroll down and see the data on UFO sightings. On the left they ca
 ![screenshot4](images/screenshot4.png)
 
 ## Summary
-One drawback of this webpage design is that once you filter the data there is no way to go back to the unfiltered data without refreshing the page. I would recommend implementing this change by maybe adding a button to reset filters. I would also reccommend expanding on data from other dates and countries (all of the data is from 2010 and the only country is the US.
+One drawback of this webpage design is that once you filter the data there is no way to go back to the unfiltered data without refreshing the page. I would recommend implementing this change by maybe adding a button to reset filters. I would also reccommend expanding data to include a larger variety of dates and countries (all of the data is from 2010 and the only country is the US.
